@@ -1,4 +1,5 @@
 import os
+import re
 
 
 print(os.getcwd())
@@ -29,6 +30,8 @@ print(read_file.read())
 
 #readline
 #readlines
+#seek
+
 
 read_file.close()
 

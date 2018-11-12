@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="192e850b-ebba-4fd3-830f-263886e8fe4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTyes/Basics/DictExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/Basics/Person" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/Basics/SetExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/Basics/YmlRead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/Conditional/Ifexample1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/Conditional/While1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/Conditional/WhileExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/OS Commands/OSRead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/PythonClassExamples/SimplePyClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/PythonClassExamples/TimeTable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTyes/Basics/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTyes/Basics/Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTyes/OS Commands/OSRead.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTyes/OS Commands/OSRead.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,17 +40,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4104" />
+          <entry key="py" value="4123" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="4104" />
+          <entry key="Python" value="4123" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -129,8 +122,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataTyes/OS Commands/OSRead.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="15">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,10 +173,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="820" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -486,21 +482,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979757" visible="true" weight="0.24242425" />
+      <window_info id="Structure" order="1" sideWeight="0.5023148" side_tool="true" weight="0.24242425" />
+      <window_info id="Favorites" order="2" sideWeight="0.5020243" side_tool="true" visible="true" weight="0.24242425" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4106412" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4106412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39835164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32692307" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32605729" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32692307" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -657,8 +653,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTyes/OS Commands/OSRead.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
