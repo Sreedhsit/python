@@ -1,0 +1,9 @@
+  person:
+    name:"Sreekanth"
+    occupation:"Developer"
+    age:37
+    sex:"male"
+    hobby:
+      - Cricket
+      - movies
+      - play
