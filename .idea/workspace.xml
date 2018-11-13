@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="192e850b-ebba-4fd3-830f-263886e8fe4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTyes/RegExp/RegMatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTyes/RegExp/RegSearch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTyes/RegExp/RegSearch" beforeDir="false" afterPath="$PROJECT_DIR$/DataTyes/RegExp/RegSearch" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="RegSearch" value="228" />
+          <entry key="RegSearch" value="1049" />
           <entry key="py" value="4572" />
           <entry key="txt" value="20" />
         </counts>
@@ -50,7 +49,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="4800" />
+          <entry key="Python" value="5621" />
         </counts>
       </usages-collector>
     </session>
@@ -134,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataTyes/RegExp/RegSearch">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="250">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
@@ -684,8 +683,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTyes/RegExp/RegSearch">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="250">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>
