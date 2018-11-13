@@ -1,0 +1,33 @@
+import re
+# define the text
+text2 = """COM    Computers
+205 MAT   Mathematics 189"""
+
+# compile the regex and search the pattern
+regex_num = re.compile('\d+')
+
+s = regex_num.search(text2)
+
+print('Starting Position: ', s.start())
+print('Ending Position: ', s.end())
+print(text2[s.start():s.end()])
+
+print(s.group())
+
+
+
+m=re.findall('\d+',text2)
+print(m)
+
+print('To replace texts, use the regex.sub().')
+
+text3 = """101   COM \t  Computers
+205   MAT \t  Mathematics
+189   ENG  \t  English"""
+print(text3)
+print(re.sub('\s+',' ',text3))
+
+regex_sub = re.compile('\s+')
+
+print(regex_sub.sub(' ',text3))
+
